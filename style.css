@@ -1,6 +1,11 @@
 body {
     background-color: rgb(179, 159, 143);
     color: rgb(80, 56, 5);
+    font-family: "Times New Roman", sans-serif;
+}
+
+body p {
+    font-size: 20px;
 }
 
 h2 {
@@ -21,7 +26,7 @@ h2 {
     position: relative;
     Left: 30%;
 }
-}
+
 
 #ppork_img {
     height: auto;
@@ -30,7 +35,11 @@ h2 {
     Left: 20%;
 }
 
+.ingredients ul {
+    font-size: 20px;
+    list-style-type: square;
+}
 
 .steps ol {
-    font-size: 15px;
+    font-size: 20px;
 }
