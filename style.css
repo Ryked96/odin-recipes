@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(179, 159, 143);
+    color: rgb(80, 56, 5);
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#gingerbread_img {
+    height: auto;
+    width: 20%;
+    position: relative;
+    Left: 20%;
+}
+
+#ftoast_img {
+    height: auto;
+    width: 30%;
+    position: relative;
+    Left: 30%;
+}
+}
+
+#ppork_img {
+    height: auto;
+    width: 40%;
+    position: relative;
+    Left: 20%;
+}
+
+
+.steps ol {
+    font-size: 15px;
+}
